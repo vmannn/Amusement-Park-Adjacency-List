@@ -1,5 +1,5 @@
 # Amusement-Park-Adjacency-List
-Excersize to learn about adjacency lists for directed graphs
+Excersize to learn about adjacency lists for directed graphs. C++
 
 
 
